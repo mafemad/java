@@ -73,7 +73,7 @@ public class Chat {
         
         
         //predict
-        String answer = chain.execute("Who is charlie?");
+        String answer = chain.execute("Where does charlie live?");
         System.out.println(answer);
         
 	}
