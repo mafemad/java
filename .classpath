@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="crudjava/src"/>
+	<classpathentry kind="src" path="lib/src/main/java"/>
+	<classpathentry kind="src" path="lib/src/test/java"/>
+	<classpathentry kind="src" path="pratica4/src"/>
+	<classpathentry kind="lib" path="chatbot/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="crudjava/resource/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="output" path="pratica4/bin"/>
+</classpath>
