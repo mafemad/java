@@ -1,1 +1,3 @@
-
+[submodule "teste"]
+  path = MeuProjeto
+  url = https://github.com/mafemad/MeuProjeto
